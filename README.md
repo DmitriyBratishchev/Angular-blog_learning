@@ -1,3 +1,14 @@
+Это учебный проект по Angular.
+
+Программа представляет собой блог который выводит:
+-для пользователя(список постов и открывает каждый пост ):
+`https://angular-blog-2a178.web.app`;
+-для администратора(редактирование, удаление, добавление, поиск):
+`https://angular-blog-2a178.web.app/admin`.
+Авторизяция как администратор:
+email: d@mail.ru
+password: 123456
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
